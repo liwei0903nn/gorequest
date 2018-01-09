@@ -30,7 +30,8 @@ import (
 	"path/filepath"
 
 	"github.com/moul/http2curl"
-	"github.com/weppos/publicsuffix-go/net/publicsuffix"
+	//"github.com/weppos/publicsuffix-go/net/publicsuffix"
+	"github.com/liwei0903nn/publicsuffix-go/net/publicsuffix"
 )
 
 type Request *http.Request
